@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">شارژینو</string>
+    <string name="connecting">در حال اتصال</string>
+    <string name="no_network2">اینترنت دستگاه متصل نیست.</string>
+    <string name="server_connected">ارتباط برقرار است.</string>
+    <string name="server_error2">خطا در برقراری ارتباط</string>
+    <string name="disconnected">قطع</string>
+    <string name="fill_server_form">لطفا اطلاعات سرور را تکمیل کنید.</string>
+    <string name="login_failed">اسم یا کلمه عبور پایگاه داده اشتباه است.</string>
+    <string name="unreachable_ip">سرور در درسترس نیست</string>
+    <string name="unknown_server_ip">مقدار ای پی اشتباه است.</string>
+
+</resources>
